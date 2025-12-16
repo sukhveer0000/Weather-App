@@ -15,7 +15,10 @@ A modern **Android Weather App** built with **Kotlin** that provides real-time w
 
 ---
 
-##Ui[![Weather_app_preview](https://github.com/user-attachments/assets/d421d9da-c87b-405c-a57d-207ad185a1e3)
+## UI
+
+<img src="https://github.com/user-attachments/assets/d421d9da-c87b-405c-a57d-207ad185a1e3" width="300" alt="Weather App Preview">
+
 
 ---
 
