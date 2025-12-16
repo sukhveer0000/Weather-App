@@ -8,7 +8,6 @@ A modern **Android Weather App** built with **Kotlin** that provides real-time w
 
 - Get **current weather** based on your location
 - Display **temperature, humidity, pressure, and wind speed**
-- Show **weather conditions** (e.g., Rain, Sunny, Clouds)
 - Supports **runtime location permission**
 - Clean and simple **Material Design UI**
 - Built with **Kotlin** and **Android Studio**
